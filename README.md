@@ -1,4 +1,4 @@
-# Geospatial Python Data Engineering and Visualization
+# Geospatial Data Engineering and Visualization using Python
 This is the example of Geospatial Data Engineering and Visualization using ArcPy, ArcGIS API for Python, and a Pandas dataframe. Make sure you already have ArcGIS Pro to do this excercise
 
 To start this excercise, you need to open DataEngineering_and_Visualization.aprx file through ArcGIS Pro and then in Catalog pane expand Notebooks. Right-click Data_Engineering_Notebook.ipynb and choose Open Notebook"
